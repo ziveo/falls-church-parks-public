@@ -1,0 +1,1 @@
+import{cA as o,ei as r}from"./index.a831a68c.js";const c=96;function a(t,n){const e=n||t.extent,i=t.width,s=o(e&&e.spatialReference);return e&&i?e.width/i*s*r*c:0}function f(t,n){return t/(o(n)*r*c)}export{f as i,a as r};
